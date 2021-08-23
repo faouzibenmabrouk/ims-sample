@@ -1,0 +1,520 @@
+
+--------------------------------------------------------------------------------
+ *** Default Test Use Case
+--------------------------------------------------------------------------------
+Custom function()
+ Started : 8/19/2021, 1:43:11 PM
+ .methodName = vsc.Test_GEN
+ .inArgs (length = 0)
+ Finished in 76 ms.
+--------------------------------------------------------------------------------
+Result_customFunction
+ .return_value = 0
+ .outArgs (length = 2)
+ .outArgs[0] = out1
+ .outArgs[1] = out2
+ .customErrorString = Successful
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+ *** Default Test Use Case
+--------------------------------------------------------------------------------
+Custom function()
+ Started : 8/19/2021, 2:07:11 PM
+ .methodName = vsc.Test_GEN
+ .inArgs (length = 0)
+ Finished in 70 ms.
+--------------------------------------------------------------------------------
+Result_customFunction
+ .return_value = 0
+ .outArgs (length = 2)
+ .outArgs[0] = out1
+ .outArgs[1] = out2
+ .customErrorString = Successful
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+ *** Default Test Use Case
+--------------------------------------------------------------------------------
+Custom function()
+ Started : 8/19/2021, 2:07:19 PM
+ .methodName = vsc.Test_GEN
+ .inArgs (length = 0)
+ Finished in 51 ms.
+--------------------------------------------------------------------------------
+Result_customFunction
+ .return_value = 0
+ .outArgs (length = 2)
+ .outArgs[0] = out1
+ .outArgs[1] = out2
+ .customErrorString = Successful
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+ *** Default Test Use Case
+--------------------------------------------------------------------------------
+Custom function()
+ Started : 8/19/2021, 2:13:51 PM
+ .methodName = vsc.Test_GEN
+ .inArgs (length = 0)
+ Finished in 60 ms.
+--------------------------------------------------------------------------------
+Result_customFunction
+ .return_value = 0
+ .outArgs (length = 2)
+ .outArgs[0] = out1
+ .outArgs[1] = out2
+ .customErrorString = Successful
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+ *** Default Test Use Case
+--------------------------------------------------------------------------------
+Custom function()
+ Started : 8/19/2021, 2:27:00 PM
+ .methodName = vsc.Test_GEN
+ .inArgs (length = 0)
+ Finished in 58 ms.
+--------------------------------------------------------------------------------
+Result_customFunction
+ .return_value = 0
+ .outArgs (length = 2)
+ .outArgs[0] = out1
+ .outArgs[1] = out2
+ .customErrorString = Successful
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+ *** Default Test Use Case
+--------------------------------------------------------------------------------
+Custom function()
+ Started : 8/19/2021, 2:28:31 PM
+ .methodName = vsc.Test_GEN
+ .inArgs (length = 0)
+ Finished in 42 ms.
+--------------------------------------------------------------------------------
+Result_customFunction
+ .return_value = 0
+ .outArgs (length = 2)
+ .outArgs[0] = out1
+ .outArgs[1] = out2
+ .customErrorString = Successful
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+ *** Default Test Use Case
+--------------------------------------------------------------------------------
+Custom function()
+ Started : 8/19/2021, 2:48:03 PM
+ .methodName = vsc.Test_GEN
+ .inArgs (length = 0)
+ Finished in 57 ms.
+--------------------------------------------------------------------------------
+Result_customFunction
+ .return_value = 0
+ .outArgs (length = 2)
+ .outArgs[0] = out1
+ .outArgs[1] = out2
+ .customErrorString = Successful
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+ *** Default Test Use Case
+--------------------------------------------------------------------------------
+Custom function()
+ Started : 8/19/2021, 3:07:09 PM
+ .methodName = vsc.Test_GEN
+ .inArgs (length = 0)
+ Finished in 150 ms.
+--------------------------------------------------------------------------------
+Result_customFunction
+ .return_value = 0
+ .outArgs (length = 2)
+ .outArgs[0] = out1
+ .outArgs[1] = out2
+ .customErrorString = Successful
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+ *** Default Test Use Case
+--------------------------------------------------------------------------------
+Custom function()
+ Started : 8/19/2021, 3:07:18 PM
+ .methodName = vsc.Test_GEN
+ .inArgs (length = 0)
+ Finished in 40 ms.
+--------------------------------------------------------------------------------
+Result_customFunction
+ .return_value = 0
+ .outArgs (length = 2)
+ .outArgs[0] = out1
+ .outArgs[1] = out2
+ .customErrorString = Successful
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+ *** Default Test Use Case
+--------------------------------------------------------------------------------
+Custom function()
+ Started : 8/19/2021, 3:07:36 PM
+ .methodName = vsc.Test_GEN
+ .inArgs (length = 0)
+ Finished in 135 ms.
+--------------------------------------------------------------------------------
+Result_customFunction
+ .return_value = 0
+ .outArgs (length = 2)
+ .outArgs[0] = out1
+ .outArgs[1] = out2
+ .customErrorString = Successful
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+ *** Default Test Use Case
+--------------------------------------------------------------------------------
+Custom function()
+ Started : 8/19/2021, 3:26:54 PM
+ .methodName = vsc.Test_GEN
+ .inArgs (length = 0)
+ Finished in 88 ms.
+--------------------------------------------------------------------------------
+Result_customFunction
+ .return_value = 0
+ .outArgs (length = 2)
+ .outArgs[0] = out1
+ .outArgs[1] = out2
+ .customErrorString = Successful
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+ *** Default Test Use Case
+--------------------------------------------------------------------------------
+Custom function()
+ Started : 8/19/2021, 3:28:44 PM
+ .methodName = vsc.Test_GEN
+ .inArgs (length = 0)
+ Finished in 70 ms.
+--------------------------------------------------------------------------------
+Result_customFunction
+ .return_value = 0
+ .outArgs (length = 2)
+ .outArgs[0] = out1
+ .outArgs[1] = out2
+ .customErrorString = Successful
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+ *** Default Test Use Case
+--------------------------------------------------------------------------------
+Custom function()
+ Started : 8/19/2021, 3:29:28 PM
+ .methodName = vsc.Test_GEN
+ .inArgs (length = 0)
+ Finished in 70 ms.
+--------------------------------------------------------------------------------
+Result_customFunction
+ .return_value = 0
+ .outArgs (length = 2)
+ .outArgs[0] = out1
+ .outArgs[1] = out2
+ .customErrorString = Successful
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+ *** Default Test Use Case
+--------------------------------------------------------------------------------
+Custom function()
+ Started : 8/19/2021, 3:30:47 PM
+ .methodName = vsc.Test_GEN
+ .inArgs (length = 0)
+ Finished in 82 ms.
+--------------------------------------------------------------------------------
+Result_customFunction
+ .return_value = 0
+ .outArgs (length = 2)
+ .outArgs[0] = out1
+ .outArgs[1] = out2
+ .customErrorString = Successful
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+ *** Default Test Use Case
+--------------------------------------------------------------------------------
+Custom function()
+ Started : 8/19/2021, 3:31:42 PM
+ .methodName = vsc.Test_GEN
+ .inArgs (length = 0)
+ Finished in 89 ms.
+--------------------------------------------------------------------------------
+Result_customFunction
+ .return_value = 0
+ .outArgs (length = 2)
+ .outArgs[0] = out1
+ .outArgs[1] = out2
+ .customErrorString = Successful
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+ *** Default Test Use Case
+--------------------------------------------------------------------------------
+Custom function()
+ Started : 8/19/2021, 3:32:17 PM
+ .methodName = vsc.Test_GEN
+ .inArgs (length = 0)
+ Finished in 46 ms.
+--------------------------------------------------------------------------------
+Result_customFunction
+ .return_value = 0
+ .outArgs (length = 2)
+ .outArgs[0] = out1
+ .outArgs[1] = out2
+ .customErrorString = Successful
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+ *** Default Test Use Case
+--------------------------------------------------------------------------------
+Custom function()
+ Started : 8/19/2021, 3:50:59 PM
+ .methodName = vsc.Test_GEN
+ .inArgs (length = 0)
+ Finished in 57 ms.
+--------------------------------------------------------------------------------
+Result_customFunction
+ .return_value = 0
+ .outArgs (length = 2)
+ .outArgs[0] = out1
+ .outArgs[1] = out2
+ .customErrorString = Successful
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+ *** Default Test Use Case
+--------------------------------------------------------------------------------
+Custom function()
+ Started : 8/19/2021, 3:51:50 PM
+ .methodName = vsc.Test_GEN
+ .inArgs (length = 0)
+ Finished in 43 ms.
+--------------------------------------------------------------------------------
+Result_customFunction
+ .return_value = 0
+ .outArgs (length = 2)
+ .outArgs[0] = out1
+ .outArgs[1] = out2
+ .customErrorString = Successful
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+ *** Default Test Use Case
+--------------------------------------------------------------------------------
+Custom function()
+ Started : 8/19/2021, 4:39:02 PM
+ .methodName = vsc.Test_GEN
+ .inArgs (length = 0)
+ Finished in 90 ms.
+--------------------------------------------------------------------------------
+Result_customFunction
+ .return_value = 0
+ .outArgs (length = 2)
+ .outArgs[0] = out1
+ .outArgs[1] = out2
+ .customErrorString = Successful
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+ *** Default Test Use Case
+--------------------------------------------------------------------------------
+Custom function()
+ Started : 8/19/2021, 4:41:28 PM
+ .methodName = vsc.Test_GEN
+ .inArgs (length = 0)
+ Finished in 58 ms.
+--------------------------------------------------------------------------------
+Result_customFunction
+ .return_value = 0
+ .outArgs (length = 2)
+ .outArgs[0] = out1
+ .outArgs[1] = out2
+ .customErrorString = Successful
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+ *** Default Test Use Case
+--------------------------------------------------------------------------------
+Custom function()
+ Started : 8/19/2021, 4:42:06 PM
+ .methodName = vsc.Test_GEN
+ .inArgs (length = 0)
+ Finished in 95 ms.
+--------------------------------------------------------------------------------
+Result_customFunction
+ .return_value = 0
+ .outArgs (length = 2)
+ .outArgs[0] = out1
+ .outArgs[1] = out2
+ .customErrorString = Successful
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+ *** Default Test Use Case
+--------------------------------------------------------------------------------
+Custom function()
+ Started : 8/19/2021, 4:43:21 PM
+ .methodName = vsc.Test_GEN
+ .inArgs (length = 0)
+ Finished in 239 ms.
+--------------------------------------------------------------------------------
+Result_customFunction
+ .return_value = 0
+ .outArgs (length = 2)
+ .outArgs[0] = out1
+ .outArgs[1] = out2
+ .customErrorString = Successful
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+ *** Default Test Use Case
+--------------------------------------------------------------------------------
+Custom function()
+ Started : 8/19/2021, 4:56:03 PM
+ .methodName = vsc.Test_GEN
+ .inArgs (length = 0)
+ Finished in 602 ms.
+--------------------------------------------------------------------------------
+Result_customFunction
+ .return_value = 0
+ .outArgs (length = 2)
+ .outArgs[0] = out1
+ .outArgs[1] = out2
+ .customErrorString = Successful
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+ *** Test Use Case 1
+--------------------------------------------------------------------------------
+Custom function()
+ Started : 8/19/2021, 4:58:10 PM
+ .methodName = vsc.Test_GEN
+ .inArgs (length = 1)
+ .inArgs[0] = 01010010
+ Finished in 56 ms.
+--------------------------------------------------------------------------------
+Result_customFunction
+ .return_value = 0
+ .outArgs (length = 2)
+ .outArgs[0] = out1
+ .outArgs[1] = out2
+ .customErrorString = Successful
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+ *** Test Use Case 2
+--------------------------------------------------------------------------------
+Custom function()
+ Started : 8/19/2021, 4:58:10 PM
+ .methodName = vsc.Test_GEN
+ .inArgs (length = 1)
+ .inArgs[0] = 01010010
+ Finished in 88 ms.
+--------------------------------------------------------------------------------
+Result_customFunction
+ .return_value = 0
+ .outArgs (length = 2)
+ .outArgs[0] = out1
+ .outArgs[1] = out2
+ .customErrorString = Successful
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+ *** Test Use Case 1
+--------------------------------------------------------------------------------
+Custom function()
+ Started : 8/19/2021, 4:58:35 PM
+ .methodName = vsc.Test_GEN
+ .inArgs (length = 1)
+ .inArgs[0] = 01010010
+ Finished in 54 ms.
+--------------------------------------------------------------------------------
+Result_customFunction
+ .return_value = 0
+ .outArgs (length = 2)
+ .outArgs[0] = out1
+ .outArgs[1] = out2
+ .customErrorString = Successful
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+ *** Test Use Case 2
+--------------------------------------------------------------------------------
+Custom function()
+ Started : 8/19/2021, 4:58:35 PM
+ .methodName = vsc.Test_GEN
+ .inArgs (length = 1)
+ .inArgs[0] = 01010010
+ Finished in 55 ms.
+--------------------------------------------------------------------------------
+Result_customFunction
+ .return_value = 0
+ .outArgs (length = 2)
+ .outArgs[0] = out1
+ .outArgs[1] = out2
+ .customErrorString = Successful
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+ *** Test Use Case 1
+--------------------------------------------------------------------------------
+Custom function()
+ Started : 8/19/2021, 5:05:00 PM
+ .methodName = vsc.Test_GEN
+ .inArgs (length = 0)
+ Finished in 50 ms.
+--------------------------------------------------------------------------------
+Result_customFunction
+ .return_value = 0
+ .outArgs (length = 2)
+ .outArgs[0] = out1
+ .outArgs[1] = out2
+ .customErrorString = Successful
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+ *** Test Use Case 2
+--------------------------------------------------------------------------------
+Custom function()
+ Started : 8/19/2021, 5:05:00 PM
+ .methodName = vsc.Test_GEN
+ .inArgs (length = 0)
+ Finished in 48 ms.
+--------------------------------------------------------------------------------
+Result_customFunction
+ .return_value = 0
+ .outArgs (length = 2)
+ .outArgs[0] = out1
+ .outArgs[1] = out2
+ .customErrorString = Successful
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+ *** Test Use Case 1
+--------------------------------------------------------------------------------
+Custom function()
+ Started : 8/19/2021, 5:05:11 PM
+ .methodName = vsc.Test_GEN1
+ .inArgs (length = 0)
+ Finished in 142 ms.
+--------------------------------------------------------------------------------
+Result_customFunction
+ .return_value = -1500
+ .outArgs (length = 0)
+ .customErrorString = Script not found
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+ *** Test Use Case 2
+--------------------------------------------------------------------------------
+Custom function()
+ Started : 8/19/2021, 5:05:12 PM
+ .methodName = vsc.Test_GEN
+ .inArgs (length = 0)
+ Finished in 50 ms.
+--------------------------------------------------------------------------------
+Result_customFunction
+ .return_value = 0
+ .outArgs (length = 2)
+ .outArgs[0] = out1
+ .outArgs[1] = out2
+ .customErrorString = Successful
+--------------------------------------------------------------------------------

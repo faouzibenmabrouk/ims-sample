@@ -1,0 +1,15 @@
+{
+	"clusterNode": "http://localhiost:8080/mes",
+	"scriptName": "vsc",
+	"scriptFile": "js\\script.js",
+	"resultFile": "result.out",
+	"defaultStation": "01010010",
+	"userId": "admin",
+	"userPw": "admin",
+	"client": "01",
+	"sysIdentifier": "VSC Test",
+	"majorVersion": 1,
+	"minorVersion": -1,
+	"upload": true,
+	"test": false
+}

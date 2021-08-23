@@ -1,0 +1,24 @@
+{
+	"project": "Project name",
+	"description": "Test scenarios for custom script",
+	"default": {
+		"scenario": "",
+		"name": "Default Test Use Case",
+		"method": "Test_GEN",
+		"args": []
+	},
+	"scenarios": [
+		{
+			"scenario": "",
+			"name": "Test Use Case 1",
+			"method": "Test_GEN",
+			"args": []
+		},
+		{
+			"scenario": "",
+			"name": "Test Use Case 2",
+			"method": "Test_GEN",
+			"args": []
+		}
+	]
+}
